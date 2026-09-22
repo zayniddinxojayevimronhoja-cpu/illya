@@ -1,0 +1,57 @@
+.box{
+    width: 400px; 
+    height: 800px;
+    background-color: black;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+.qizil{
+    width: 250px; ;
+    height: 250px; ;
+    background-color: red;
+    border-radius: 100%;
+    margin: auto;
+    border: 6px solid green;
+    
+}
+
+.sariq{
+    width: 250px; ;
+    height: 250px; ;
+    background-color: yellow;
+    border-radius: 100%;
+    margin: auto;
+    margin-top: 20px; 
+    border: 6px solid green;
+}
+
+.yashil{
+    width: 250px; ;
+    height: 250px;
+    background-color:green;
+    border-radius: 100%;
+    margin: auto;
+     margin-top: 20px; 
+     border: 6px solid green;
+}
+.matn{
+    width: 250px; ;
+    height: 50px; ;
+    background-color: blue;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.matn h1 {
+    color: azure;
+
+}
+
+.a {
+    width: 100px;
+    height: 1000px;
+    background-color: black;
+    margin: auto;
+}
